@@ -1,5 +1,7 @@
 # cbBTC Agent Plugin
 
+Agents need Bitcoin too. 
+
 ## Overview
 
 `CBBTCAgentPlugin` is a Node.js library for interacting with the cbBTC (Coinbase Bitcoin) token on the Base blockchain. It provides methods for checking balances, transferring tokens, and approving token spending.
