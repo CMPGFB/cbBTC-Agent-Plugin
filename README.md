@@ -24,7 +24,7 @@ Agents need Bitcoin too.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cbbtc-agent-plugin.git
+git clone https://github.com/cmpgfb/cbbtc-agent-plugin.git
 cd cbbtc-agent-plugin
 ```
 
