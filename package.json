@@ -1,0 +1,36 @@
+{
+  "name": "cbbtc-agent-plugin",
+  "version": "1.0.0",
+  "description": "A plugin for interacting with cbBTC token on Base blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "keywords": [
+    "ethereum",
+    "base",
+    "cbbtc",
+    "blockchain",
+    "token"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "jest": "^29.6.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/cbbtc-agent-plugin.git"
+  }
+}
